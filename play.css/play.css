@@ -1,0 +1,15 @@
+h1,
+h2 {
+  text-align: center;
+  margin: auto;
+  color: #777777;
+}
+p {
+  text-align: justify;
+  color: beige;
+}
+h3 {
+  text-align: center;
+  margin-top: 10%;
+  color: white;
+}
