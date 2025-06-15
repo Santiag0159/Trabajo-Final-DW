@@ -1,0 +1,31 @@
+body {
+  background-color: #003791;
+}
+h1,
+h2 {
+  text-align: center;
+  margin: auto;
+  color: #777777;
+}
+p {
+  color: beige;
+}
+h3 {
+  text-align: center;
+  margin-top: 10%;
+  background-color: cyan;
+}
+img {
+  display: block;
+  margin: auto;
+  width: 35%;
+  height: auto;
+}
+ul {
+  background-color: white;
+  color: rgb(53, 53, 119);
+}
+.footer {
+  text-align: center;
+  margin: auto;
+}

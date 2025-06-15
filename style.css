@@ -1,11 +1,18 @@
 /* El cuerpo de la pag*/
 body {
   font-family: Arial, Helvetica, sans-serif; /* Fuente */
-  margin: 0; /* Elimina el margen por defecto del body */
   padding: 0; /* Elimina el padding por defecto del body */
   background-color: #777676; /* Un gris muy claro para el fondo */
   color: #292828; /* Color de texto principal en gris oscuro */
-  display: flex;
-  flex-direction: column; /* Columna para el footer abajo */
+  margin-left: 5%;
+  margin-top: 5%;
   min-height: 100vh; /*Para que se vea en toda la pantalla*/
+}
+h1 {
+  text-align: center;
+  margin: auto;
+}
+.footer {
+  text-align: center;
+  margin: auto;
 }

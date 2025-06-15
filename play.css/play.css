@@ -5,11 +5,28 @@ h2 {
   color: #777777;
 }
 p {
-  text-align: justify;
   color: beige;
 }
 h3 {
   text-align: center;
   margin-top: 10%;
   color: white;
+}
+img {
+  display: block;
+  margin: auto;
+  width: 35%;
+  height: auto;
+}
+.modelos {
+  width: 300px;
+  height: auto;
+}
+hr {
+  background-color: black;
+  margin: auto;
+}
+.footer {
+  text-align: center;
+  margin: auto;
 }
