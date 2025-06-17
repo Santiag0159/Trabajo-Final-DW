@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 788 444" style="enable-background:new 0 0 788 444;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#107C10;}
+	.st1{clip-path:url(#SVGID_2_);}
+	.st2{clip-path:url(#SVGID_4_);}
+	.st3{fill:#FFFFFF;}
+</style>
+<g>
+	<rect x="242.8" y="70.8" class="st0" width="302.4" height="302.4"/>
+	<g id="Xbox_2020_Sphere">
+		<g>
+			<g>
+				<defs>
+					<rect id="SVGID_1_" x="294.2" y="122.2" width="199.8" height="199.8"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+				</clipPath>
+				<g class="st1">
+					<g>
+						<g>
+							<defs>
+								<rect id="SVGID_3_" x="294.2" y="122.2" width="199.8" height="199.8"/>
+							</defs>
+							<clipPath id="SVGID_4_">
+								<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+							</clipPath>
+							<g class="st2">
+								<path class="st3" d="M394,202.3c0.1,0,0.2,0.1,0.3,0.2c29.9,22.7,81,78.9,65.4,94.7c-37.6,32.9-93.9,32.9-131.5,0
+									c-15.7-15.9,35.5-72.1,65.4-94.7C393.8,202.4,393.9,202.3,394,202.3"/>
+								<path class="st3" d="M446.1,136.7c-15.3-9.1-31.9-14.7-52.1-14.7c-20.1,0-36.7,5.5-52.1,14.7c-0.2,0.1-0.3,0.3-0.2,0.5
+									c0.1,0.2,0.3,0.2,0.5,0.2c19.3-4.2,48.8,12.6,51.5,14.2c0.1,0.1,0.3,0.1,0.4,0c2.8-1.7,32.1-18.4,51.5-14.2
+									c0.2,0.1,0.4,0,0.5-0.2C446.3,137,446.2,136.8,446.1,136.7"/>
+								<path class="st3" d="M324.1,150.8c-0.2,0.1-0.3,0.2-0.4,0.3c-35.6,35.3-39.5,91.6-9.1,131.4c0.1,0.2,0.3,0.2,0.5,0.2
+									c0.2-0.1,0.2-0.3,0.1-0.5c-7.6-23.5,31.3-80.6,51.5-104.5c0.1-0.1,0.1-0.2,0.1-0.3c0-0.1-0.1-0.3-0.2-0.3
+									C336.2,146.7,325.8,149.9,324.1,150.8"/>
+								<path class="st3" d="M421.4,177c-0.1,0.1-0.2,0.2-0.2,0.3c0,0.1,0.1,0.2,0.1,0.3c20,23.9,59,81,51.5,104.5
+									c-0.1,0.2-0.1,0.4,0.1,0.5c0.2,0.1,0.4,0,0.5-0.2c30.3-39.9,26.4-96-9.1-131.4c-0.1-0.1-0.3-0.2-0.4-0.3
+									C462.2,149.9,451.8,146.7,421.4,177"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

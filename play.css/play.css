@@ -1,38 +1,90 @@
-h1,
-h2 {
-  text-align: center;
-  margin: auto;
-  color: #777777;
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f4f4;
+  color: #222;
+  line-height: 1.6;
+  padding: 20px;
 }
-p {
-  color: beige;
-}
-h3 {
-  text-align: center;
-  margin-top: 10%;
+.header {
+  background-color: #0b0b0b;
   color: white;
+  padding: 20px;
+  text-align: center;
 }
-img {
+.header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+.header h2 {
+  font-size: 1.4rem;
+  font-weight: normal;
+  margin-bottom: 15px;
+}
+.nave ul {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  list-style: none;
+  margin-bottom: 15px;
+}
+.nave a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 8px 12px;
+  transition: background-color 0.3s ease;
+}
+.nave a:hover {
+  background-color: #444;
+  border-radius: 25px;
+}
+main {
+  margin-top: 30px;
+}
+section.consola {
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+}
+section img {
   display: block;
-  margin: auto;
-  width: 35%;
+  margin: 15px auto;
+  max-width: 90%;
   height: auto;
+  border-radius: 8px;
 }
-.modelos {
-  width: 300px;
-  height: auto;
+.grande{
+  display: block;
+  margin: auto; 
+  max-width: 50%;
+  height: 400px;
 }
-hr {
-  background-color: black;
-  margin: auto;
+a.vermas {
+  color: inherit;
+  text-decoration: none;
+  font-weight: bold;
+  border-bottom: 1px dashed #999;
+}
+a.vermas:hover {
+  color: #0077cc;
+  border-bottom: 1px solid #0077cc;
 }
 .footer {
   text-align: center;
-  margin: auto;
+  margin-top: 40px;
+  padding: 15px;
+  font-size: 0.9rem;
+  background-color: #0b0b0b;
+  color: white;
+  border-top: 4px solid #0077cc;
 }
-.vermas {
-  color: #c0c0c0;
+.footer a {
+  color: inherit;
+  text-decoration: none;
+  font-weight: bold;
 }
-.ps4m {
-  width: 45%;
+.footer a:hover {
+  text-decoration: underline;
 }
